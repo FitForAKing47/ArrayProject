@@ -41,7 +41,7 @@ public class ArrayController
 	}
 
 
-	public void setCookieTypes(Cookie[][] baconTypes)
+	public void setCookieTypes(Cookie[][] cookiesTypes)
 	{
 		this.cookieTypes = cookieTypes;
 	}
